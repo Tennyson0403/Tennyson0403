@@ -1,10 +1,13 @@
+[README.md](https://github.com/user-attachments/files/31016391/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/main/profile.png" width="150" height="150" style="border-radius:50%;" alt="Benjamin Sundar"/>
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&height=45&lines=Banking+Associate+%40+Accenture;Commercial+Banking+%26+JPMC+Support;Aspiring+Data+Analyst;Learning+Python+%2B+MySQL+%2B+Power+BI)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&height=45&lines=Banking+Associate+%40+Accenture;Commercial+Banking+%26+JPMC+Support;Aspiring+Data+Analyst;Learning+Python+%2B+MySQL+%2B+Power+BI" width="500" height="45" alt="Typing SVG"/>
+</a>
 
 </div>
 
