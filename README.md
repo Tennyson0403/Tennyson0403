@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31014763/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
@@ -12,7 +13,7 @@
 
 ### About Me
 
-\`\`\`python
+```python
 class Benjamin:
     def __init__(self):
         self.name = "Benjamin Sundar F"
@@ -29,7 +30,7 @@ class Benjamin:
 
 me = Benjamin()
 print(me.motto())
-\`\`\`
+```
 
 <br clear="right"/>
 
@@ -37,7 +38,7 @@ print(me.motto())
 
 **Banking & Finance**
 
-![Commercial Banking](https://img.shields.io/badge/Commercial_Banking-004C97?style=flat-square&logo=bankofamerica&logoColor=white)
+![Commercial Banking](https://img.shields.io/badge/Commercial_Banking-004C97?style=flat-square&logo=coinbase&logoColor=white)
 ![Financial Management](https://img.shields.io/badge/Financial_Management-0A5C36?style=flat-square&logo=cashapp&logoColor=white)
 ![Business Data Management](https://img.shields.io/badge/Business_Data_Mgmt-2E7D32?style=flat-square&logo=databricks&logoColor=white)
 
@@ -47,7 +48,7 @@ print(me.motto())
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tally Prime](https://img.shields.io/badge/Tally_Prime-5A2D82?style=flat-square&logo=tally&logoColor=white)
+![Tally Prime](https://img.shields.io/badge/Tally_Prime-5A2D82?style=flat-square&logo=googlesheets&logoColor=white)
 
 **Web & Office Tools**
 
@@ -82,7 +83,7 @@ print(me.motto())
 
 ### 🏦 What I Do Now
 
-<details>
+<details open>
 <summary><b>Accenture — Banking Associate (Commercial Banking, JPMorgan Chase Process Support)</b></summary>
 <br>
 
@@ -143,12 +144,12 @@ print(me.motto())
 
 ### 📊 Currently Learning
 
-\`\`\`
+```
 📊 Power BI       → Dashboards, DAX, Data Modeling
 🐍 Python         → Pandas, NumPy, Data Analysis
 🗄️ MySQL          → Queries, Joins, Database Design
 📒 Tally Prime    → Financial & Accounting Workflows
-\`\`\`
+```
 
 ### 📫 Let's Connect
 
@@ -169,4 +170,4 @@ print(me.motto())
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/><img width="400" height="400" alt="profile" src="https://github.com/user-attachments/assets/14b55e5f-e84c-42c9-9fdd-8128ae1b85ef" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
