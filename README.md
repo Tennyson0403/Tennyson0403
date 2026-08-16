@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31114114/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
 
 <br/>
