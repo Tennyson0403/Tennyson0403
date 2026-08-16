@@ -209,6 +209,7 @@ Recorded transactions and generated ledgers for academic coursework.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminsundar)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tennyson0403@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/main/Benjamin_Sundar_Resume.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tennyson0403&color=70a5fd&style=for-the-badge)
 
