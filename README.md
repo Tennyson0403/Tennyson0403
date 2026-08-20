@@ -131,10 +131,10 @@ Built dashboards with pivot tables & charts to visualize sales trends and improv
 </td>
 <td width="33%" valign="top">
 
-**🐍 Customer Analysis**
+**🐍 [Customer Analysis](https://github.com/Tennyson0403/customer-analysis)**
 `Python · Pandas`
 
-Cleaned and analyzed datasets to identify customer patterns and behavior.
+Segmented 1,200 bank customers by income & engagement, found product-holding cuts churn from 17% to 0%.
 
 </td>
 <td width="34%" valign="top">
