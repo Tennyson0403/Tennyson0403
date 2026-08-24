@@ -87,7 +87,7 @@ print(me.motto())
 <tr>
 <td width="35%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tennyson0403&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Tennyson0403)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tennyson0403&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Tennyson0403)
 
 </td>
 <td width="65%" align="center">
