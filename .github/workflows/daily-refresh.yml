@@ -1,0 +1,61 @@
+name: Daily Profile Refresh
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 9:00 AM IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick a random finance/data quote
+        run: |
+          QUOTES=(
+            "💰 \"Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.\" — Albert Einstein"
+            "📊 \"Without data, you're just another person with an opinion.\" — W. Edwards Deming"
+            "🏦 \"In investing, what is comfortable is rarely profitable.\" — Robert Arnott"
+            "📈 \"Risk comes from not knowing what you're doing.\" — Warren Buffett"
+            "🔢 \"Data is a precious thing and will last longer than the systems themselves.\" — Tim Berners-Lee"
+            "🧮 \"The goal is to turn data into information, and information into insight.\" — Carly Fiorina"
+            "💡 \"Not everything that counts can be counted, and not everything that can be counted counts.\" — William Bruce Cameron"
+            "🏛️ \"An investment in knowledge pays the best interest.\" — Benjamin Franklin"
+            "📉 \"It's not whether you're right or wrong, but how much money you make when you're right.\" — George Soros"
+            "🔍 \"Errors using inadequate data are much less than those using no data at all.\" — Charles Babbage"
+            "💳 \"Beware of little expenses; a small leak will sink a great ship.\" — Benjamin Franklin"
+            "🧠 \"Torture the data, and it will confess to anything.\" — Ronald Coase"
+            "🏦 \"The stock market is a device for transferring money from the impatient to the patient.\" — Warren Buffett"
+            "📊 \"In God we trust; all others bring data.\" — W. Edwards Deming"
+            "💼 \"Do not save what is left after spending, but spend what is left after saving.\" — Warren Buffett"
+          )
+          RANDOM_QUOTE="${QUOTES[$RANDOM % ${#QUOTES[@]}]}"
+          echo "Selected: $RANDOM_QUOTE"
+          python3 - "$RANDOM_QUOTE" <<'EOF'
+          import sys, re
+          quote = sys.argv[1]
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+          new_block = f"<!--INSIGHT_START-->\n> {quote}\n<!--INSIGHT_END-->"
+          content = re.sub(
+              r"<!--INSIGHT_START-->.*?<!--INSIGHT_END-->",
+              new_block,
+              content,
+              flags=re.DOTALL,
+          )
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "🔄 Daily insight refresh"
+          git push
