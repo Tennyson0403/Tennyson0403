@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31402777/README.md)
+[README.md](https://github.com/user-attachments/files/31402823/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
 
 <br/>
@@ -94,7 +94,7 @@ print(me.motto())
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tennyson0403&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Activity Graph](https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/main/metrics.activity.svg)
 
 </div>
 
