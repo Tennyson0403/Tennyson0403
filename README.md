@@ -81,6 +81,24 @@ print(me.motto())
 
 <br/>
 
+## 💡 Daily Insight
+<!--INSIGHT_START-->
+> 💰 *"Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it."* — Albert Einstein
+<!--INSIGHT_END-->
+<sub>🔄 Refreshes daily via GitHub Actions</sub>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tennyson0403&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
+
+<br/>
+
 ## 📈 GitHub Activity
 
 <table width="100%">
