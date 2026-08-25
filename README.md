@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31402642/README.md)
+[README.md](https://github.com/user-attachments/files/31402680/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
 
 <br/>
@@ -94,7 +94,7 @@ print(me.motto())
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tennyson0403&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Tennyson0403&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 </div>
 
@@ -106,7 +106,7 @@ print(me.motto())
 <tr>
 <td width="35%" align="center">
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tennyson0403&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Tennyson0403)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Tennyson0403&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Tennyson0403)
 
 </td>
 <td width="65%" align="center">
