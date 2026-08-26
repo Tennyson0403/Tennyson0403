@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 💰 *"Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it."* — Albert Einstein
+> 🔢 "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
