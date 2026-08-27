@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🔢 "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
+> 📈 "Risk comes from not knowing what you're doing." — Warren Buffett
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
