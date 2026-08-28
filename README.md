@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📈 "Risk comes from not knowing what you're doing." — Warren Buffett
+> 🧠 "Torture the data, and it will confess to anything." — Ronald Coase
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
