@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🧠 "Torture the data, and it will confess to anything." — Ronald Coase
+> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
