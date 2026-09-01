@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📈 "Risk comes from not knowing what you're doing." — Warren Buffett
+> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
