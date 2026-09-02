@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
+> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
