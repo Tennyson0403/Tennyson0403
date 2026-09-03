@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
+> 💼 "Do not save what is left after spending, but spend what is left after saving." — Warren Buffett
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
