@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📊 "In God we trust; all others bring data." — W. Edwards Deming
+> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
