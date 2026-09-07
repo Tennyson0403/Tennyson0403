@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
+> 🏦 "In investing, what is comfortable is rarely profitable." — Robert Arnott
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
