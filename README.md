@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
+> 📉 "It's not whether you're right or wrong, but how much money you make when you're right." — George Soros
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
