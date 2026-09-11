@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📉 "It's not whether you're right or wrong, but how much money you make when you're right." — George Soros
+> 🏦 "In investing, what is comfortable is rarely profitable." — Robert Arnott
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
