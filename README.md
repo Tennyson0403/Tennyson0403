@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🔢 "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
+> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
