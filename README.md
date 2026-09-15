@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
+> 📈 "Risk comes from not knowing what you're doing." — Warren Buffett
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
