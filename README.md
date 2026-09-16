@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📈 "Risk comes from not knowing what you're doing." — Warren Buffett
+> 🧮 "The goal is to turn data into information, and information into insight." — Carly Fiorina
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
