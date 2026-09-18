@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
+> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
