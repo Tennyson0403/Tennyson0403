@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
+> 📊 "In God we trust; all others bring data." — W. Edwards Deming
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
