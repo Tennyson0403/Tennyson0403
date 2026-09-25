@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 📊 "In God we trust; all others bring data." — W. Edwards Deming
+> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
