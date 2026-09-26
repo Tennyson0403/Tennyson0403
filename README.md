@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
+> 🔢 "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
