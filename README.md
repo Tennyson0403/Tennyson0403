@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
+> 💡 "Not everything that counts can be counted, and not everything that can be counted counts." — William Bruce Cameron
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
