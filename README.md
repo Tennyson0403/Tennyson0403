@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
+> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
