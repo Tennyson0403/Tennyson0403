@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 🏦 "In investing, what is comfortable is rarely profitable." — Robert Arnott
+> 💡 "Not everything that counts can be counted, and not everything that can be counted counts." — William Bruce Cameron
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
