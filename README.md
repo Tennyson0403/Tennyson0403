@@ -84,7 +84,7 @@ print(me.motto())
 
 ## 💡 Daily Insight
 <!--INSIGHT_START-->
-> 💡 "Not everything that counts can be counted, and not everything that can be counted counts." — William Bruce Cameron
+> 📊 "In God we trust; all others bring data." — W. Edwards Deming
 <!--INSIGHT_END-->
 <sub>🔄 Refreshes daily via GitHub Actions</sub>
 
