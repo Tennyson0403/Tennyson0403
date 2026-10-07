@@ -55,8 +55,9 @@ print(me.motto())
 
 ## 💡 Daily Insight
 
-<!-- If a GitHub Action updates this block, keep its original start/end markers around the quote below. -->
+<!--INSIGHT_START-->
 > 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
+<!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
 
