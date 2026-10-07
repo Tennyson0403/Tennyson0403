@@ -1,26 +1,11 @@
-[README.md](https://github.com/user-attachments/files/31403688/README.md)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
 
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benjamin%20Sundar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Banking%20Associate%20%40%20Accenture%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16)
 
-<table width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/main/profile.png" width="160" height="160" alt="Benjamin Sundar"/>
-</td>
-<td width="70%" valign="middle">
+</div>
 
-### 👋 Hi, I'm Benjamin
-
-💼 **Banking Associate** @ Accenture — Commercial Banking, JPMorgan Chase Process Support
-📊 Building toward a career in **Data Analytics**, one dashboard at a time
-📍 Chennai, Tamil Nadu, India &nbsp;•&nbsp; 🎓 B.Com — Business Mathematics & Data Analytics
-
-</td>
-</tr>
-</table>
-
-<br/>
+| <img src="https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/main/profile.png" width="140" alt="Benjamin Sundar"/> | 👋 **Hi, I'm Benjamin**<br><br>💼 **Banking Associate** @ Accenture — Escrow Insurance Processing, JPMorgan Chase<br>📊 Building toward a career in **Data Analytics**, one dashboard at a time<br>📍 Chennai, Tamil Nadu, India<br>🎓 B.Com — Business Mathematics & Data Analytics |
+| --- | --- |
 
 ## 🧑‍💻 About Me
 
@@ -30,189 +15,121 @@ class Benjamin:
         self.name = "Benjamin Sundar F"
         self.location = "Chennai, Tamil Nadu, India"
         self.degree = "B.Com — Business Mathematics & Data Analytics"
-        self.role = "Banking Associate @ Accenture (JPMC Process Support)"
-        self.certified_in = ["Python", "Advanced Excel", "MySQL", "Tally Prime", "HTML/CSS", "Power BI"]
+        self.role = "Banking Associate @ Accenture (JPMorgan Chase escrow insurance processing)"
+        self.skills = ["Advanced Excel", "Power BI", "MySQL", "Python (Pandas, NumPy)", "Tally Prime"]
+        self.certified_in = ["Python", "Advanced Excel", "MySQL", "Tally Prime", "HTML/CSS", "Data Analytics with Excel"]
         self.fun_fact = "Started in commercial banking, now building toward data analytics"
 
     def motto(self):
         return "Turning financial and operational data into insights, one dashboard at a time."
 
-
 me = Benjamin()
 print(me.motto())
 ```
 
-<br/>
-
 ## 🧩 Tech Stack
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+**🏦 Banking & Insurance Operations**<br>
+![Escrow Loan Processing](https://img.shields.io/badge/Escrow_Loan_Processing-004C97?style=for-the-badge)
+![Invoice Validation](https://img.shields.io/badge/Invoice_Validation-0A5C36?style=for-the-badge)
+![Payment Disbursement](https://img.shields.io/badge/Payment_Disbursement-2E7D32?style=for-the-badge)
+![Investor Compliance](https://img.shields.io/badge/Investor_Compliance-5A2D82?style=for-the-badge)
 
-**🏦 Banking & Finance**
-
-![Commercial Banking](https://img.shields.io/badge/Commercial_Banking-004C97?style=for-the-badge&logo=coinbase&logoColor=white)
-![Financial Management](https://img.shields.io/badge/Financial_Management-0A5C36?style=for-the-badge&logo=cashapp&logoColor=white)
-![Business Data Mgmt](https://img.shields.io/badge/Business_Data_Mgmt-2E7D32?style=for-the-badge&logo=databricks&logoColor=white)
-
-</td>
-<td width="33%" valign="top">
-
-**📊 Data & Analytics**
-
+**📊 Data & Analytics**<br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tally Prime](https://img.shields.io/badge/Tally_Prime-5A2D82?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-</td>
-<td width="34%" valign="top">
-
-**🌐 Web & Office Tools**
-
+**🛠️ Tools & Platforms**<br>
+![Tally Prime](https://img.shields.io/badge/Tally_Prime-5A2D82?style=for-the-badge)
+![Clarifire](https://img.shields.io/badge/Clarifire-37474F?style=for-the-badge)
+![MS Office](https://img.shields.io/badge/MS_Office_Suite-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-<br/>
+**💪 Core Strengths:** Documentation Control (G5/G2) · Audit-Readiness · Business Reporting · Problem-Solving · Team Collaboration
 
 ## 💡 Daily Insight
-<!--INSIGHT_START-->
-> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
-<!--INSIGHT_END-->
-<sub>🔄 Refreshes daily via GitHub Actions</sub>
 
-<br/>
+<!-- If a GitHub Action updates this block, keep its original start/end markers around the quote below. -->
+> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
+
+🔄 Refreshes daily via GitHub Actions
 
 ## 🏦 What I Do Now
 
-<details open>
-<summary><b>Accenture — Banking Associate (Commercial Banking, JPMorgan Chase Process Support)</b></summary>
-<br>
+**Accenture — Banking Associate (Escrow Insurance Processing, JPMorgan Chase)** · 2025 – Present
 
-> `Excel Tracking` `Transaction Processing` `Audit & Compliance` `Business Data Management`
+> `Invoice Processing` `Investor Compliance` `Documentation Control` `Excel Trackers & Macros`
 
-- Process and validate transaction operations for a global banking client (JPMorgan Chase)
-- Focus on accuracy, compliance, and audit-readiness in daily banking operations
-- Apply Excel-based tracking and reporting to monitor process metrics
-- Work at the intersection of banking operations and data-driven process improvement
-
-</details>
-
-<br/>
+- Process insurance invoices for escrow loan accounts, validating claims and disbursing payments to servicing agents and vendors
+- Secure written stakeholder confirmation for investor-coded loans before payment, following investor-specific approval protocols
+- Generate G5 payment-proof and G2 final cheque documentation with strict no-reprint controls
+- Coordinate FedEx dispatch of finalized payment documents for timely, accurate delivery
+- Maintain multiple Excel trackers (disbursement, discarded duplicates/resubmissions, Clarifire, investor approvals) using macros to speed up validation and reduce manual errors
 
 ## 🎓 Academic Projects
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+| **📊 Retail Sales Dashboard** `Excel · PivotTables · Charts`<br>Built interactive dashboards with PivotTables and charts to visualize sales trends and support reporting insight. | **🐍 [Customer Analysis](https://github.com/Tennyson0403/customer-analysis)** `Python · Pandas`<br>Segmented 1,200 bank customers by income and engagement. Product-holding customers showed 0% churn vs 17% otherwise (an observed association, not proven causation). | **📒 Basic Financial Ledger** `Tally Prime`<br>Recorded transactions and generated ledgers for academic coursework. |
+| --- | --- | --- |
 
-**📊 Retail Sales Dashboard**
-`Excel · PivotTables · Charts`
+## 🏆 Certifications & Training
 
-Built dashboards with pivot tables & charts to visualize sales trends and improve reporting insight.
+**Certifications**
 
-</td>
-<td width="33%" valign="top">
-
-**🐍 [Customer Analysis](https://github.com/Tennyson0403/customer-analysis)**
-`Python · Pandas`
-
-Segmented 1,200 bank customers by income & engagement, found product-holding cuts churn from 17% to 0%.
-
-</td>
-<td width="34%" valign="top">
-
-**📒 Basic Financial Ledger**
-`Tally Prime`
-
-Recorded transactions and generated ledgers for academic coursework.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏆 Certified Skills
-
-*All certifications completed — verified and listed on [LinkedIn](https://www.linkedin.com/in/benjaminsundar).*
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-| 🎖️ | Certification | Issuer |
-|---|---|---|
+| | Certification | Issuer |
+| --- | --- | --- |
 | 🐍 | Python Programming | Apollo Computer Education |
 | 📊 | Advanced Excel | Apollo Computer Education |
 | 🗄️ | MySQL | Apollo Computer Education |
-
-</td>
-<td width="50%">
-
-| 🎖️ | Certification | Issuer |
-|---|---|---|
 | 📒 | Tally Prime | Apollo Computer Education |
 | 🌐 | HTML & CSS | Apollo Computer Education |
 | 💼 | Data Science Combo Course (Python, Advanced Excel, Tally Prime) | Apollo Computer Education |
+| 📈 | Data Analytics with Excel | TNSDC |
 
-</td>
-</tr>
-</table>
+**Accenture Learning**
 
-<div align="center">
+| | Course | Issuer |
+| --- | --- | --- |
+| 🤖 | Reinvention with Agentic AI (Stanford program) | Accenture Learning |
+| 🧩 | Microsoft Copilots & Agents 101 | Accenture Learning |
+| 🔒 | Responsible Use of M365 Copilot | Accenture Learning |
+| 📉 | Excel 365: Analyzing & Forecasting Data | Accenture Learning |
+| 🕸️ | Graph Data Structures & Knowledge Graphs | Accenture Learning |
+| 🛡️ | Insurance Industry Overview | Accenture Learning |
+| 🔍 | Root Cause Analysis | Accenture Learning |
 
-![Data Analytics with Excel](https://img.shields.io/badge/Data_Analytics_with_Excel-TNSDC-38BDAE?style=for-the-badge)
-
-</div>
-
-<br/>
+*More details on [LinkedIn](https://www.linkedin.com/in/benjaminsundar).*
 
 ## 🙋 Extracurricular
 
+- **Badminton Coach (during college)** — Coached players, building leadership, communication and team-management skills
 - **Member, College IT Club** — Supported workshops on business analytics tools
 - **Volunteer, Tech Festival** — Assisted in logistics & event management
 - **Coordinator, Cultural Activities** — Organized student teams for events
 
-<br/>
-
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| Bachelor of Commerce | Nazareth College of Arts & Science, Chennai | 2022–2025 | 65% |
-| HSC (XII Std) | St. Johns Matriculation Hr. Sec. School | 2020–2022 | 66% |
-| SSLC (X Std) | Grace Park Convent Matriculation Hr. Sec. School | 2020 | 79.6% |
+| Degree | Institution | Year |
+| --- | --- | --- |
+| Bachelor of Commerce | Nazareth College of Arts & Science, Chennai | 2022–2025 |
+| HSC (XII Std) | St. Johns Matriculation Hr. Sec. School | 2020–2022 |
+| SSLC (X Std) | Grace Park Convent Matriculation Hr. Sec. School | 2020 |
 
-<br/>
+## 🗣️ Languages
+
+Tamil (Native) · English (Professional Proficiency)
 
 ## 📬 Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminsundar)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tennyson0403@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/main/Benjamin_Sundar_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Tennyson0403/Tennyson0403/blob/main/Benjamin_Sundar_Resume.pdf)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tennyson0403&color=70a5fd&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tennyson0403&color=70a5fd&style=for-the-badge)](https://github.com/Tennyson0403)
 
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tennyson0403/Tennyson0403/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
