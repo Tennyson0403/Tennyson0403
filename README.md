@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
+> 💰 "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it." — Albert Einstein
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
