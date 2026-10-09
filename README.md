@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 💰 "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it." — Albert Einstein
+> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
