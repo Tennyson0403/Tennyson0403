@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 📉 "It's not whether you're right or wrong, but how much money you make when you're right." — George Soros
+> 🧮 "The goal is to turn data into information, and information into insight." — Carly Fiorina
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
