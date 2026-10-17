@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🔢 "Data is a precious thing and will last longer than the systems themselves." — Tim Berners-Lee
+> 📊 "In God we trust; all others bring data." — W. Edwards Deming
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
