@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 💰 "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it." — Albert Einstein
+> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
