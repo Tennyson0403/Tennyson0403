@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🧮 "The goal is to turn data into information, and information into insight." — Carly Fiorina
+> 🏦 "In investing, what is comfortable is rarely profitable." — Robert Arnott
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
