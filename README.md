@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🧠 "Torture the data, and it will confess to anything." — Ronald Coase
+> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
