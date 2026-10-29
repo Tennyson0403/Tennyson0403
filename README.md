@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
+> 🧮 "The goal is to turn data into information, and information into insight." — Carly Fiorina
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
