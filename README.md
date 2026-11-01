@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
+> 🧠 "Torture the data, and it will confess to anything." — Ronald Coase
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
