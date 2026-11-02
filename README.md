@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🧠 "Torture the data, and it will confess to anything." — Ronald Coase
+> 💼 "Do not save what is left after spending, but spend what is left after saving." — Warren Buffett
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
