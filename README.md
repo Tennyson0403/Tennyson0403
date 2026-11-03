@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 💼 "Do not save what is left after spending, but spend what is left after saving." — Warren Buffett
+> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
