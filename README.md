@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
+> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
