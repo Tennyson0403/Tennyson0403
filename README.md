@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
+> 💼 "Do not save what is left after spending, but spend what is left after saving." — Warren Buffett
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
