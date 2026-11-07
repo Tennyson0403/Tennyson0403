@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 💼 "Do not save what is left after spending, but spend what is left after saving." — Warren Buffett
+> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
