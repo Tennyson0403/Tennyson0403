@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🏛️ "An investment in knowledge pays the best interest." — Benjamin Franklin
+> 📈 "Risk comes from not knowing what you're doing." — Warren Buffett
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
