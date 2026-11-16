@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 💼 "Do not save what is left after spending, but spend what is left after saving." — Warren Buffett
+> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
