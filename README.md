@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
+> 💳 "Beware of little expenses; a small leak will sink a great ship." — Benjamin Franklin
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
