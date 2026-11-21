@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
+> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
