@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 📊 "Without data, you're just another person with an opinion." — W. Edwards Deming
+> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
