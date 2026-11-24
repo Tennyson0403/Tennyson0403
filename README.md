@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 📊 "In God we trust; all others bring data." — W. Edwards Deming
+> 🔍 "Errors using inadequate data are much less than those using no data at all." — Charles Babbage
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
