@@ -56,7 +56,7 @@ print(me.motto())
 ## 💡 Daily Insight
 
 <!--INSIGHT_START-->
-> 💡 "Not everything that counts can be counted, and not everything that can be counted counts." — William Bruce Cameron
+> 🏦 "The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett
 <!--INSIGHT_END-->
 
 🔄 Refreshes daily via GitHub Actions
